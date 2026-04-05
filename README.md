@@ -6,7 +6,7 @@ PAHAMI TANPA MENGGUNAKAN AI dulu
 -css
 -javascript
 -golang
--c++
+
 -github
 -git
 -restfull api
